@@ -1,5 +1,7 @@
 # Instruqt workshop style guide
 
+Probably want to look at the raw file for this as styling doesn't display the same as Instruqt here.
+
 ## Text
 
 <span style="color:#FF9E16">Orange text for something that should stand out - a focus point.</span>
